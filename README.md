@@ -1,5 +1,9 @@
 # Srushthi M S: Portfolio Site
 
+
+AWS DEPLOYMENT LINK:https://staging.d89sdl6xozhjq.amplifyapp.com/
+
+
 A fast, static portfolio. No build step, no dependencies, no server. It is plain HTML, CSS and JavaScript, so it deploys to almost any host in a few minutes.
 
 ## What is in the box
