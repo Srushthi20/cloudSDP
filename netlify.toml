@@ -1,0 +1,9 @@
+# Netlify reads the _headers file automatically, so only publish settings are needed here.
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/index.html"
+  to = "/"
+  status = 301
+  force = true
